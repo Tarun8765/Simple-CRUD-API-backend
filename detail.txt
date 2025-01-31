@@ -1,0 +1,13 @@
+
+//  http://localhost:3000/
+
+// connectionString ="mongodb+srv://tarunghawri7:Pem4OxnhKOBxlGro@cluster0.ho0cd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+
+
+ res.send({
+    name: "shoes",
+    price: 199,
+    quantity: 20,
+    image: "imag/c/dhfkdjkjf/",
+    timeAndDate: new Date(),
+  });
